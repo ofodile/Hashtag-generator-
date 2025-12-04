@@ -29,7 +29,7 @@ export default function HashtagGenerator() {
 
   return (
     <div className="max-w-2xl mx-auto p-6 bg-white rounded-xl shadow space-y-4">
-      <h1 className="head">AI Hashtag Generator</h1>
+      <h1 className="head">Social Hashtag Generator</h1>
       
       <p className="text">Smart Hashtags for Every Post.
 Generate trending, relevant, and platform-optimized hashtags in seconds.</p>
